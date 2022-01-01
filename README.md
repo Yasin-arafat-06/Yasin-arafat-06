@@ -14,7 +14,7 @@ Skills: HTML / CSS / Bootstrap / JS /
 - 💬 Ask me about Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background='blue'>](https://github.com/Yasin-Arafat-06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yasin.arafat.ak06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yasin_arafat_06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/HRvToNMH_U5QJzZ78xrt6A)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40', background='blue'>](https://github.com/Yasin-Arafat-06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/yasin.arafat.ak06)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yasin_arafat_06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/HRvToNMH_U5QJzZ78xrt6A)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasin-Arafat-06&show_icons=true&count_private=true)  
 
