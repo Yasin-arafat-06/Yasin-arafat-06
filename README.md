@@ -18,7 +18,7 @@ Skills: HTML / CSS / Bootstrap / JS /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasin-Arafat-06&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yasin-Arafat-06)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yasin-Arafat-06)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/Yasin-Arafat-06)  
 
